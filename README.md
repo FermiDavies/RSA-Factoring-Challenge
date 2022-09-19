@@ -10,4 +10,4 @@ This repo is just an attempt to read in and factorize a file of numbers.
 
 ## Author :octocat:
 
-[Fermi Davies](https://www.linkedin.com/in/faith-afolabi-575012171) | [Twitter](https://twitter.com/fermi_davies) | [GitHub](https://github.com/fermi_davies)
+[Fermi Davies](https://www.linkedin.com/in/faith-afolabi-575012171) | [Twitter](https://twitter.com/fermi_davies) | [GitHub](https://github.com/FermiDavies)
